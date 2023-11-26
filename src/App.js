@@ -33,8 +33,8 @@ function App() {
 
                     <div className='loading-pag'>
                         <div className="loader">
-                            <span>Welcome to Sofia's Repository</span>
-                            <span>Welcome to Sofia's Repository</span>
+                            <span>Sofia's Porfolio is loading</span>
+                            <span>Sofia's Porfolio is loading</span>
                         </div>
                     </div>
 

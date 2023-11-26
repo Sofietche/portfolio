@@ -73,7 +73,7 @@ color: transparent;
 .loader span:nth-child(2) {
 color: var(--green);
 -webkit-text-stroke: 1px var(--green);
-animation: Sofia Etchepare 3s ease-in-out infinite;
+animation: sofia 3s ease-in-out infinite;
 }
 
 @keyframes sofia {
