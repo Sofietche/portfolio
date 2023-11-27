@@ -1,4 +1,6 @@
 # portfolio
 react portfolio
 
-Command to run this app locally: *npm start*
+Command to run this app locally: 
+*npm i*
+*npm start*
