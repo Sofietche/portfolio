@@ -163,23 +163,6 @@ const Project = () => {
                   defaultMessage='Designed to visually attract the user, with excellent quality culinary preparations and an interface with attractive transitions.'
                 />
               </p>
-              <div className="eins-modal-text-2">
-                <span>Link:</span> <a href="https://nahuel61920.github.io/TatoFood/" target="_blank">https://tato-food.com</a>
-              </div>
-              <div className="eins-modal-text-3">
-                <span>
-                  <FormattedMessage
-                    id='projects-tec'
-                    defaultMessage='Used technology:'
-                  />
-                </span>
-                <div className="eins-modal-tec">
-                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="" />
-                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="" />
-                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="" />
-                  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" alt="" />
-                </div>
-              </div>
             </div>
           </div>
         </div>
@@ -205,24 +188,6 @@ const Project = () => {
                   defaultMessage='Focused on showing the client the value, experience and professionalism of the lawyers they can hire, choosing the category of their specific case.'
                 />
               </p>
-              <div className="eins-modal-text-2">
-                <span>Link:</span> <a href="https://nahuel61920.github.io/Justice" target="_blank">https://justice.com</a>
-              </div>
-              <div className="eins-modal-text-3">
-                <span>
-                  <FormattedMessage
-                    id='projects-tec'
-                    defaultMessage='Used technology:'
-                  />
-                </span>
-                <div className="eins-modal-tec">
-                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="" />
-                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="" />
-                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="" />
-                  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="" />
-                  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" alt="" />
-                </div>
-              </div>
             </div>
           </div>
         </div>
@@ -248,23 +213,6 @@ const Project = () => {
                   defaultMessage='It shows the projects carried out over the years for different types of clients, names their services and years of experience in the industry.'
                 />
               </p>
-              <div className="eins-modal-text-2">
-                <span>Link:</span> <a href="https://nahuel61920.github.io/Magical-Effect/" target="_blank">https://magicaleffect.com</a>
-              </div>
-              <div className="eins-modal-text-3">
-                <span>
-                  <FormattedMessage
-                    id='projects-tec'
-                    defaultMessage='Used technology:'
-                  />
-                </span>
-                <div className="eins-modal-tec">
-                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="" />
-                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="" />
-                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="" />
-                  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" alt="" />
-                </div>
-              </div>
             </div>
           </div>
         </div>
@@ -332,23 +280,6 @@ const Project = () => {
                   defaultMessage='Developed so that the client can choose their console, be it PSP 5 or Xbox X, and be able to browse exclusive pages for each console.'
                 />
               </p>
-              <div className="eins-modal-text-2">
-                <span>Link:</span> <a href="https://nahuel61920.github.io/InspiredGamer" target="_blank">https://inspired-gamer.com</a>
-              </div>
-              <div className="eins-modal-text-3">
-                <span>
-                  <FormattedMessage
-                    id='projects-tec'
-                    defaultMessage='Used technology:'
-                  />
-                </span>
-                <div className="eins-modal-tec">
-                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="" />
-                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="" />
-                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="" />
-                  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="" />
-                </div>
-              </div>
             </div>
           </div>
         </div>
@@ -374,23 +305,6 @@ const Project = () => {
                   defaultMessage='Designed so that the customer can choose the shoe model, see which one best suits their budget and which are the best valued by buyers.'
                 />
               </p>
-              <div className="eins-modal-text-2">
-                <span>Link:</span> <a href="https://nahuel61920.github.io/EveryRunning" target="_blank">https://every-running.com</a>
-              </div>
-              <div className="eins-modal-text-3">
-                <span>
-                  <FormattedMessage
-                    id='projects-tec'
-                    defaultMessage='Used technology:'
-                  />
-                </span>
-                <div className="eins-modal-tec">
-                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="" />
-                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="" />
-                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="" />
-                  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="" />
-                </div>
-              </div>
             </div>
           </div>
         </div>
@@ -416,22 +330,6 @@ const Project = () => {
                   defaultMessage='It has a wide variety of Anime, both recent releases and community favorites, it also boasts movies of the genre in question.'
                 />
               </p>
-              <div className="eins-modal-text-2">
-                <span>Link:</span> <a href="https://nahuel61920.github.io/PlusAnime" target="_blank">https://plusanime.com</a>
-              </div>
-              <div className="eins-modal-text-3">
-                <span>
-                  <FormattedMessage
-                    id='projects-tec'
-                    defaultMessage='Used technology:'
-                  />
-                </span>
-                <div className="eins-modal-tec">
-                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="" />
-                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="" />
-                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="" />
-                </div>
-              </div>
             </div>
           </div>
         </div>
@@ -457,22 +355,6 @@ const Project = () => {
                   defaultMessage='Developed so that the customer can choose the watch of their choice, since it has a wide variety of brands and models. The page also has a night mode for more comfort.'
                 />
               </p>
-              <div className="eins-modal-text-2">
-                <span>Link:</span> <a href="https://nahuel61920.github.io/ElegantHand/" target="_blank">https://elegant-hand.com</a>
-              </div>
-              <div className="eins-modal-text-3">
-                <span>
-                  <FormattedMessage
-                    id='projects-tec'
-                    defaultMessage='Used technology:'
-                  />
-                </span>
-                <div className="eins-modal-tec">
-                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="" />
-                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="" />
-                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="" />
-                </div>
-              </div>
             </div>
           </div>
         </div>
@@ -498,22 +380,6 @@ const Project = () => {
                   defaultMessage='Designed so that the customer can purchase physical or digital books, it has a large number of categories so that its readers feel comfortable.'
                 />
               </p>
-              <div className="eins-modal-text-2">
-                <span>Link:</span> <a href="https://nahuel61920.github.io/vida-en-papel" target="_blank">https://vida-en-papel.com</a>
-              </div>
-              <div className="eins-modal-text-3">
-                <span>
-                  <FormattedMessage
-                    id='projects-tec'
-                    defaultMessage='Used technology:'
-                  />
-                </span>
-                <div className="eins-modal-tec">
-                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="" />
-                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="" />
-                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="" />
-                </div>
-              </div>
             </div>
           </div>
         </div>
@@ -539,23 +405,6 @@ const Project = () => {
                   defaultMessage='It offers a large number of products, as well as the ability to navigate between the different categories of such products.'
                 />
               </p>
-              <div className="eins-modal-text-2">
-                <span>Link:</span> <a href="https://nahuel61920.github.io/shop-tec" target="_blank">https://shop-tec.com</a>
-              </div>
-              <div className="eins-modal-text-3">
-                <span>
-                  <FormattedMessage
-                    id='projects-tec'
-                    defaultMessage='Used technology:'
-                  />
-                </span>
-                <div className="eins-modal-tec">
-                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="" />
-                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="" />
-                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="" />
-                  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="" />
-                </div>
-              </div>
             </div>
           </div>
         </div>
@@ -581,22 +430,6 @@ const Project = () => {
                   defaultMessage='Developed so that the customer can purchase the car of their dreams, it uses a slider system in many of its sections to facilitate the interaction of the page with users.'
                 />
               </p>
-              <div className="eins-modal-text-2">
-                <span>Link:</span> <a href="https://nahuel61920.github.io/Power-Engine" target="_blank">https://power-engine.com</a>
-              </div>
-              <div className="eins-modal-text-3">
-                <span>
-                  <FormattedMessage
-                    id='projects-tec'
-                    defaultMessage='Used technology:'
-                  />
-                </span>
-                <div className="eins-modal-tec">
-                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="" />
-                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="" />
-                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="" />
-                </div>
-              </div>
             </div>
           </div>
         </div>
@@ -622,23 +455,6 @@ const Project = () => {
                   defaultMessage='It offers a wide variety of information about Spider-Man and his multi-verse variants, as well as facts and trivia about his enemies and allies.'
                 />
               </p>
-              <div className="eins-modal-text-2">
-                <span>Link:</span> <a href="https://nahuel61920.github.io/Spider-Man" target="_blank">https://spider-man-fans-page.com</a>
-              </div>
-              <div className="eins-modal-text-3">
-                <span>
-                  <FormattedMessage
-                    id='projects-tec'
-                    defaultMessage='Used technology:'
-                  />
-                </span>
-                <div className="eins-modal-tec">
-                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="" />
-                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="" />
-                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="" />
-                  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="" />
-                </div>
-              </div>
             </div>
           </div>
         </div>
@@ -664,24 +480,6 @@ const Project = () => {
                   defaultMessage='Designed to visually attract the user, with excellent quality culinary preparations and an interface with attractive transitions.'
                 />
               </p>
-              <div className="eins-modal-text-2">
-                <span>Link:</span> <a href="https://nahuel61920.github.io/PremierFood" target="_blank">https://premierfood.com</a>
-              </div>
-              <div className="eins-modal-text-3">
-                <span>
-                  <FormattedMessage
-                    id='projects-tec'
-                    defaultMessage='Used technology:'
-                  />
-                </span>
-                <div className="eins-modal-tec">
-                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="" />
-                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="" />
-                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="" />
-                  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="" />
-                  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="" />
-                </div>
-              </div>
             </div>
           </div>
         </div>
@@ -707,21 +505,6 @@ const Project = () => {
                   defaultMessage='It offers a large amount of information on the perfect preparations for a good coffee, as well as the temperature at which it must be prepared, as well as the best coffee beans.'
                 />
               </p>
-              <div className="eins-modal-text-2">
-                <span>Link:</span> <a href="https://nahuel61920.github.io/Blog-Coffe" target="_blank">https://ProgramCoffe.com</a>
-              </div>
-              <div className="eins-modal-text-3">
-                <span>
-                  <FormattedMessage
-                    id='projects-tec'
-                    defaultMessage='Used technology:'
-                  />
-                </span>
-                <div className="eins-modal-tec">
-                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="" />
-                  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="" />
-                </div>
-              </div>
             </div>
           </div>
         </div>

@@ -29,7 +29,6 @@ const Contact = () => (
                     'Gmail', 1500,
                     'WhatsApp', 1500,
                     'Instragram', 1500,
-                    'Telegram', 1500,
                     'Linkedin', 1500,
                     'Github', 1500,
                 ]}

@@ -273,9 +273,7 @@ function ProjectApp() {
                                     defaultMessage='It allows you to search for the weather of the city you choose, you can delete the city you searched for and also see more details of the city.'
                                 />
                             </p>
-                            <div className="eins-modal-text-2">
-                                <span>Link:</span> <a href="https://github.com/Nahuel61920/Weather-App-React" target="_blank">https://github.com/Nahuel61920/Weather-App-React</a>
-                            </div>
+                            
                             <div className="eins-modal-text-3">
                                 <span>
                                     <FormattedMessage
@@ -283,12 +281,6 @@ function ProjectApp() {
                                         defaultMessage='Used technology:'
                                     />
                                 </span>
-                                <div className="eins-modal-tec">
-                                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="" />
-                                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="" />
-                                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="" />
-                                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="" />
-                                </div>
                             </div>
                         </div>
                     </div>
@@ -312,9 +304,6 @@ function ProjectApp() {
                                     defaultMessage='The app extracts data from the giphy API, to search for the stickers that the user wants'
                                 />
                             </p>
-                            <div className="eins-modal-text-2">
-                                <span>Link:</span> <a href="https://nahuel61920.github.io/Stickers-App/" target="_blank">https://nahuel61920.github.io/Stickers-App/</a>
-                            </div>
                             <div className="eins-modal-text-3">
                                 <span>
                                     <FormattedMessage
@@ -322,12 +311,6 @@ function ProjectApp() {
                                         defaultMessage='Used technology:'
                                     />
                                 </span>
-                                <div className="eins-modal-tec">
-                                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="" />
-                                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="" />
-                                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="" />
-                                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="" />
-                                </div>
                             </div>
                         </div>
                     </div>
@@ -352,9 +335,7 @@ function ProjectApp() {
                                     defaultMessage='Small music player created with javascript, allows you to play, pause, fast forward and skip the songs'
                                 />
                             </p>
-                            <div className="eins-modal-text-2">
-                                <span>Link:</span> <a href="https://nahuel61920.github.io/Music-player/" target="_blank">https://nahuel61920.github.io/Music-player/</a>
-                            </div>
+                            
                             <div className="eins-modal-text-3">
                                 <span>
                                     <FormattedMessage
@@ -362,11 +343,7 @@ function ProjectApp() {
                                         defaultMessage='Used technology:'
                                     />
                                 </span>
-                                <div className="eins-modal-tec">
-                                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="" />
-                                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="" />
-                                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="" />
-                                </div>
+
                             </div>
                         </div>
                     </div>
@@ -390,9 +367,7 @@ function ProjectApp() {
                                     defaultMessage='GitHub User Finder, allows you to display all the user information you are looking for such as Last repositories, stars, followers and followed.'
                                 />
                             </p>
-                            <div className="eins-modal-text-2">
-                                <span>Link:</span> <a href="https://nahuel61920.github.io/GitHub-User-Finder/" target="_blank">https://nahuel61920.github.io/GitHub-User-Finder/</a>
-                            </div>
+                            
                             <div className="eins-modal-text-3">
                                 <span>
                                     <FormattedMessage
@@ -400,11 +375,6 @@ function ProjectApp() {
                                         defaultMessage='Used technology:'
                                     />
                                 </span>
-                                <div className="eins-modal-tec">
-                                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="" />
-                                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="" />
-                                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="" />
-                                </div>
                             </div>
                         </div>
                     </div>
@@ -428,9 +398,7 @@ function ProjectApp() {
                                     defaultMessage='A small paint that allows us to draw, change colors, edit the thickness of the line and erase the drawing made'
                                 />
                             </p>
-                            <div className="eins-modal-text-2">
-                                <span>Link:</span> <a href="https://nahuel61920.github.io/Paint/" target="_blank">https://nahuel61920.github.io/Paint/</a>
-                            </div>
+                            
                             <div className="eins-modal-text-3">
                                 <span>
                                     <FormattedMessage
@@ -438,11 +406,6 @@ function ProjectApp() {
                                         defaultMessage='Used technology:'
                                     />
                                 </span>
-                                <div className="eins-modal-tec">
-                                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="" />
-                                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="" />
-                                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="" />
-                                </div>
                             </div>
                         </div>
                     </div>
@@ -466,9 +429,7 @@ function ProjectApp() {
                                     defaultMessage='A pokedex created with the pokemon API, returns all the pokemons with their respective statistics, includes a pagination every 9 pokemons.'
                                 />
                             </p>
-                            <div className="eins-modal-text-2">
-                                <span>Link:</span> <a href="https://nahuel61920.github.io/Pokedex/" target="_blank">https://nahuel61920.github.io/Pokedex/</a>
-                            </div>
+                            
                             <div className="eins-modal-text-3">
                                 <span>
                                     <FormattedMessage
@@ -476,12 +437,6 @@ function ProjectApp() {
                                         defaultMessage='Used technology:'
                                     />
                                 </span>
-                                <div className="eins-modal-tec">
-                                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="" />
-                                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="" />
-                                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="" />
-                                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="" />
-                                </div>
                             </div>
                         </div>
                     </div>
@@ -508,9 +463,6 @@ function ProjectApp() {
                                     defaultMessage='Authorizes you to take a shift to repair your cell phone, you can edit the shift if you wish.'
                                 />
                             </p>
-                            <div className="eins-modal-text-2">
-                                <span>Link:</span> <a href="https://nahuel61920.github.io/Administrador-de-Clientes/" target="_blank">https://nahuel61920.github.io/Administrador-de-Clientes/</a>
-                            </div>
                             <div className="eins-modal-text-3">
                                 <span>
                                     <FormattedMessage
@@ -518,12 +470,6 @@ function ProjectApp() {
                                         defaultMessage='Used technology:'
                                     />
                                 </span>
-                                <div className="eins-modal-tec">
-                                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="" />
-                                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="" />
-                                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="" />
-                                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="" />
-                                </div>
                             </div>
                         </div>
                     </div>
@@ -550,9 +496,6 @@ function ProjectApp() {
                                     defaultMessage='It allows you to add a task to complete it in 25 minutes and at the end rest 5 minutes.'
                                 />
                             </p>
-                            <div className="eins-modal-text-2">
-                                <span>Link:</span> <a href="https://nahuel61920.github.io/Pomodoro/" target="_blank">https://nahuel61920.github.io/Pomodoro/</a>
-                            </div>
                             <div className="eins-modal-text-3">
                                 <span>
                                     <FormattedMessage
@@ -560,11 +503,6 @@ function ProjectApp() {
                                         defaultMessage='Used technology:'
                                     />
                                 </span>
-                                <div className="eins-modal-tec">
-                                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="" />
-                                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="" />
-                                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="" />
-                                </div>
                             </div>
                         </div>
                     </div>
@@ -591,9 +529,6 @@ function ProjectApp() {
                                     defaultMessage='You can calculate the expenses that you are going to make in the week, having a budget that you choose.'
                                 />
                             </p>
-                            <div className="eins-modal-text-2">
-                                <span>Link:</span> <a href="https://nahuel61920.github.io/Gastos-semanales/" target="_blank">https://nahuel61920.github.io/Gastos-semanales/</a>
-                            </div>
                             <div className="eins-modal-text-3">
                                 <span>
                                     <FormattedMessage
@@ -601,12 +536,6 @@ function ProjectApp() {
                                         defaultMessage='Used technology:'
                                     />
                                 </span>
-                                <div className="eins-modal-tec">
-                                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="" />
-                                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="" />
-                                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="" />
-                                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="" />
-                                </div>
                             </div>
                         </div>
                     </div>
@@ -633,9 +562,6 @@ function ProjectApp() {
                                     defaultMessage='It allows you to calculate your car insurance, depending on the year and the insurance you choose.'
                                 />
                             </p>
-                            <div className="eins-modal-text-2">
-                                <span>Link:</span> <a href="https://nahuel61920.github.io/Cotizador-de-seguros/" target="_blank">https://nahuel61920.github.io/Cotizador-de-seguros/</a>
-                            </div>
                             <div className="eins-modal-text-3">
                                 <span>
                                     <FormattedMessage
@@ -643,12 +569,6 @@ function ProjectApp() {
                                         defaultMessage='Used technology:'
                                     />
                                 </span>
-                                <div className="eins-modal-tec">
-                                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="" />
-                                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="" />
-                                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="" />
-                                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="" />
-                                </div>
                             </div>
                         </div>
                     </div>
@@ -675,9 +595,6 @@ function ProjectApp() {
                                     defaultMessage='It allows you to add a course to the cart, along with its description and value.'
                                 />
                             </p>
-                            <div className="eins-modal-text-2">
-                                <span>Link:</span> <a href="https://nahuel61920.github.io/Carrito-Cursos/" target="_blank">https://nahuel61920.github.io/Carrito-Cursos/</a>
-                            </div>
                             <div className="eins-modal-text-3">
                                 <span>
                                     <FormattedMessage
@@ -685,12 +602,6 @@ function ProjectApp() {
                                         defaultMessage='Used technology:'
                                     />
                                 </span>
-                                <div className="eins-modal-tec">
-                                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="" />
-                                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="" />
-                                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="" />
-                                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" alt="" />
-                                </div>
                             </div>
                         </div>
                     </div>
@@ -717,9 +628,6 @@ function ProjectApp() {
                                     defaultMessage='You can create tweets and delete them at will.'
                                 />
                             </p>
-                            <div className="eins-modal-text-2">
-                                <span>Link:</span> <a href="https://nahuel61920.github.io/Tweets/" target="_blank">https://nahuel61920.github.io/Tweets/</a>
-                            </div>
                             <div className="eins-modal-text-3">
                                 <span>
                                     <FormattedMessage
@@ -727,11 +635,6 @@ function ProjectApp() {
                                         defaultMessage='Used technology:'
                                     />
                                 </span>
-                                <div className="eins-modal-tec">
-                                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="" />
-                                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="" />
-                                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="" />
-                                </div>
                             </div>
                         </div>
                     </div>
@@ -758,9 +661,6 @@ function ProjectApp() {
                                     defaultMessage='It allows you to filter cars either by brand, year, price, doors, transmission and color.'
                                 />
                             </p>
-                            <div className="eins-modal-text-2">
-                                <span>Link:</span> <a href="https://nahuel61920.github.io/Buscador-de-autos" target="_blank">https://nahuel61920.github.io/Buscador-de-autos</a>
-                            </div>
                             <div className="eins-modal-text-3">
                                 <span>
                                     <FormattedMessage
@@ -768,11 +668,6 @@ function ProjectApp() {
                                         defaultMessage='Used technology:'
                                     />
                                 </span>
-                                <div className="eins-modal-tec">
-                                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="" />
-                                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="" />
-                                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="" />
-                                </div>
                             </div>
                         </div>
                     </div>
@@ -799,9 +694,6 @@ function ProjectApp() {
                                     defaultMessage='Classic style form, which allows you to order a book.'
                                 />
                             </p>
-                            <div className="eins-modal-text-2">
-                                <span>Link:</span> <a href="https://nahuel61920.github.io/FormularioJs-Clasico/" target="_blank">https://nahuel61920.github.io/formularioJs-clasico/</a>
-                            </div>
                             <div className="eins-modal-text-3">
                                 <span>
                                     <FormattedMessage
@@ -809,11 +701,6 @@ function ProjectApp() {
                                         defaultMessage='Used technology:'
                                     />
                                 </span>
-                                <div className="eins-modal-tec">
-                                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="" />
-                                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="" />
-                                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="" />
-                                </div>
                             </div>
                         </div>
                     </div>
@@ -840,9 +727,6 @@ function ProjectApp() {
                                     defaultMessage='It allows you to add tasks, mark them as completed, and sort them from pending to completed.'
                                 />
                             </p>
-                            <div className="eins-modal-text-2">
-                                <span>Link:</span> <a href="https://nahuel61920.github.io/To-do-list/" target="_blank">https://nahuel61920.github.io/to-do-list/</a>
-                            </div>
                             <div className="eins-modal-text-3">
                                 <span>
                                     <FormattedMessage
@@ -850,11 +734,6 @@ function ProjectApp() {
                                         defaultMessage='Used technology:'
                                     />
                                 </span>
-                                <div className="eins-modal-tec">
-                                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="" />
-                                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="" />
-                                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="" />
-                                </div>
                             </div>
                         </div>
                     </div>
@@ -881,9 +760,6 @@ function ProjectApp() {
                                     defaultMessage='Calculator that allows you to estimate what you are going to spend on a trip to the destination that you indicate.'
                                 />
                             </p>
-                            <div className="eins-modal-text-2">
-                                <span>Link:</span> <a href="https://nahuel61920.github.io/Calcular-gastos-de-viaje/" target="_blank">https://nahuel61920.github.io/calcular-gastos-de-viaje/</a>
-                            </div>
                             <div className="eins-modal-text-3">
                                 <span>
                                     <FormattedMessage
@@ -891,11 +767,6 @@ function ProjectApp() {
                                         defaultMessage='Used technology:'
                                     />
                                 </span>
-                                <div className="eins-modal-tec">
-                                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="" />
-                                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="" />
-                                    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="" />
-                                </div>
                             </div>
                         </div>
                     </div>

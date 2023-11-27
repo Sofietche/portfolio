@@ -12,6 +12,8 @@ import DarkMode from '../DarkMode/DarkMode';
 /* Language */
 import { FormattedMessage } from "react-intl";
 import { langContext } from '../../context/Context';
+import spain from '../../img/spain.svg'
+import england from '../../img/england.svg'
 
 const Header = () => {
     // Buttom language
@@ -70,8 +72,8 @@ const Header = () => {
                     />
                 </Link>
                 <div id="buttons">
-                    <img onClick={() => idioma.selectLanguage('en-US')} src="https://nahuel61920.github.io/Portafoliovirtual/img/en.png" alt="EEUU" />
-                    <img onClick={() => idioma.selectLanguage('es-ES')} src="https://nahuel61920.github.io/Portafoliovirtual/img/es.png" alt="España" />
+                    <img onClick={() => idioma.selectLanguage('en-US')} src={england} alt="EEUU" />
+                    <img onClick={() => idioma.selectLanguage('es-ES')} src={spain} alt="España" />
                 </div>
             </nav>
             <div className="switch" id="switch">
