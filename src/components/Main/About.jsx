@@ -21,56 +21,18 @@ const About = () => (
                 <h3>
                     <FormattedMessage
                         id='im'
-                        defaultMessage='who I am'
                     />
                 </h3>
                 <h4>
                     <FormattedMessage
                         id='description'
-                        defaultMessage='My name is Sofia Etchepare and I am a FrontEnd developer.'
                     />
                 </h4>
                 <p>
                     <FormattedMessage
                         id='my-description'
-                        defaultMessage='I have been working on web designing and web development for 3 years. Constantly updating the technologies I already master, but also looking to learn new technologies to enrich my skills and improve my good practices as a developer.'
                     />
                 </p>
-                <ul>
-                    <li>
-                        <p>
-                            <span>
-                                <FormattedMessage
-                                    id='years'
-                                    defaultMessage='Age:'
-                                />
-                            </span>
-                            26
-                        </p>
-                    </li>
-                    <li>
-                        <p>
-                            <span>
-                                Hobbies:{" "}
-                            </span>
-                                Read, Sports and Programming
-                        </p>
-                    </li>
-                    <li>
-                        <p><span>Email:</span> sofietchepare1997@gmail.com</p>
-                    </li>
-                    <li>
-                        <p>
-                            <span>
-                                <FormattedMessage
-                                    id='from'
-                                    defaultMessage='From:'
-                                />
-                            </span>
-                            Buenos Aires, Argentina, living in Madrid.
-                        </p>
-                    </li>
-                </ul>
                 <div className="mas-info">
                     <a href={cv} target="_blank" rel="noopener noreferrer" download="cv.pdf" className="btn-codigo buttonDownload">
                         <FormattedMessage
@@ -102,28 +64,13 @@ const About = () => (
                         <h5>JavaScript</h5>
                     </div>
                     <div>
-                        <img alt="Sass" className="icons-skils" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-                        <h5>Sass</h5>
-                    </div>
-                    <div>
-                        <img alt="Bootstrap" className="icons-skils" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-                        <h5>Bootstrap</h5>
-                    </div>
-                    <div>
-                        <img alt="Tailwindcss" className="icons-skils" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-                        <h5>Tailwindcss</h5>
-                    </div>
-                    <div>
-                        <img alt="jQuery" className="icons-skils" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
-                        <h5>jQuery</h5>
-                    </div>
+                        <img alt="Redux" className="icons-skils" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+
+                        <h5>Redux</h5>
+                    </div> 
                     <div>
                         <img alt="React" className="icons-skils" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
                         <h5>React</h5>
-                    </div>
-                    <div>
-                        <img alt="Typescript" className="icons-skils" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-                        <h5>Typescript</h5>
                     </div>
                 </div>
                 <h4>Back-End</h4>
@@ -133,16 +80,8 @@ const About = () => (
                         <h5>NodeJs</h5>
                     </div>
                     <div>
-                        <img alt="express" className="icons-skils" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-                        <h5>Express</h5>
-                    </div>
-                    <div>
-                        <img alt="mongodb" className="icons-skils" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
-                        <h5>MongodDB</h5>
-                    </div>
-                    <div>
-                        <img alt="php" className="icons-skils" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-                        <h5>PHP</h5>
+                        <img alt="Typescript" className="icons-skils" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+                        <h5>Typescript</h5>
                     </div>
                 </div>
                 <h4>

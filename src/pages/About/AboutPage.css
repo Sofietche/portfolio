@@ -265,7 +265,7 @@ section .row .columns .skill img:hover {
 .skills-img {
     display: block;
     margin: 0 auto;
-    height: 15rem;
+    height: 10rem;
 }
 
 .skill-name{

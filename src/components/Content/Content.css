@@ -18,6 +18,10 @@
     margin: 20rem auto 0 auto;
     text-align: center;
     z-index: 200!important;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 .inicio .titulo p {
@@ -37,10 +41,9 @@
     height: 250px;
     overflow: hidden;
     border-radius: 50%;
-    margin-left:20%;
 }
 .inicio img {
-   width: 100%;
+    width: 100%;
 }
 
 .wrapper {
@@ -99,7 +102,6 @@
     font-size: 20px;
     font-weight: 500;
     line-height: 60px;
-    margin-left: 10px;
     transition: all 0.3s ease-out;
     color: #fff;
 }

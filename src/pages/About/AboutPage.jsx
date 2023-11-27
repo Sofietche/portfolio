@@ -89,7 +89,7 @@ const About = () => {
                 <p className="skill-info">
                   <FormattedMessage
                     id='about-skills-1'
-                    defaultMessage='More than a year of professional experience in this language, allows me to perform without problems in the industry.'
+                    defaultMessage='More than 4 years of professional experience in this language, allows me to perform without problems in the industry.'
                   />
                 </p>
               </div>
@@ -99,7 +99,7 @@ const About = () => {
                 <p className="skill-info">
                   <FormattedMessage
                     id='about-skills-2'
-                    defaultMessage='More than a year of work experience in this language, I use it daily to develop web designs and interfaces.'
+                    defaultMessage='More than 4 years of work experience in this language, I use it daily to develop web designs and interfaces.'
                   />
                 </p>
               </div>
@@ -109,52 +109,22 @@ const About = () => {
                 <p className="skill-info">
                   <FormattedMessage
                     id='about-skills-3'
-                    defaultMessage='A year of experience using it in the front-end and back-end branch, allowed me to familiarize myself with the language, and include it in my work projects.'
-                  />
-                </p>
-              </div>
-              <div className="skill-card" data-aos="flip-left" data-aos-delay="300">
-                <img alt="Sass" className="skills-img" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="Sass" />
-                <h2 className="skill-name">Sass</h2>
-                <p className="skill-info">
-                  <FormattedMessage
-                    id='about-skills-4'
-                    defaultMessage='One year using this preprocessor in the professional field, I include it in many of my projects since it allows me a better structured code.'
-                  />
-                </p>
-              </div>
-              <div className="skill-card" data-aos="flip-down" data-aos-delay="300">
-                <img alt="Bootstrap" className="skills-img" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" />
-                <h2 className="skill-name">Bootstrap</h2>
-                <p className="skill-info">
-                  <FormattedMessage
-                    id='about-skills-5'
-                    defaultMessage='Less than a year using this framework, even so, I used it in countless work projects, which allowed me to get to know it for the most part.'
+                    defaultMessage='3 years of experience using it in the front-end and back-end branch, allowed me to familiarize myself with the language, and include it in my work projects.'
                   />
                 </p>
               </div>
               <div className="skill-card" data-aos="flip-right" data-aos-delay="300">
-                <img alt="jQuery" className="skills-img" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" title="jQuery" />
-                <h2 className="skill-name">jQuery</h2>
-                <p className="skill-info">
-                  <FormattedMessage
-                    id='about-skills-6'
-                    defaultMessage='A year using this bookstore in the personal and work environment, it is one of the bookstores that I use and manipulate the most.'
-                  />
-                </p>
-              </div>
-              <div className="skill-card" data-aos="flip-right" data-aos-delay="300">
-                <img alt="react" className="skills-img" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="jQuery" />
+                <img alt="react" className="skills-img" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="react" />
                 <h2 className="skill-name">ReactJs</h2>
                 <p className="skill-info">
                   <FormattedMessage
                     id='about-skills-7'
-                    defaultMessage='More than a year using this JavaScript framework, carrying out multiple personal and work projects.'
+                    defaultMessage='2 years using this JavaScript framework, carrying out multiple personal and work projects.'
                   />
                 </p>
               </div>
               <div className="skill-card" data-aos="flip-up" data-aos-delay="300">
-                <img alt="nodejs" className="skills-img" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="jQuery" />
+                <img alt="nodejs" className="skills-img" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="node" />
                 <h2 className="skill-name">NodeJs</h2>
                 <p className="skill-info">
                   <FormattedMessage
@@ -163,13 +133,13 @@ const About = () => {
                   />
                 </p>
               </div>
-              <div className="skill-card" data-aos="flip-left" data-aos-delay="300">
-                <img alt="express" className="skills-img" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="jQuery" />
-                <h2 className="skill-name">Express</h2>
+              <div className="skill-card" data-aos="flip-up" data-aos-delay="300">
+                <img alt="redux" className="skills-img" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" title="redux" />
+                <h2 className="skill-name">Redux</h2>
                 <p className="skill-info">
                   <FormattedMessage
                     id='about-skills-9'
-                    defaultMessage='It is a framework that I use mostly to be able to manage my APIs in the best way and my http execution model.'
+                    defaultMessage=' Use Redux to provides a robust and scalable solution for managing the state of JavaScript applications.'
                   />
                 </p>
               </div>

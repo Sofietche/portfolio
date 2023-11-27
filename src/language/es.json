@@ -16,25 +16,23 @@
     
     "im": "Quien soy",
     "description": "Mi nombre es Sofia Etchepare y soy Frontend developer",
-    "my-description": "Me dedico desde hace 2 años al diseño y desarrollo web, estoy en constante aprendizaje de las tecnologías que ya domino, asimismo busco aprender nuevas tecnologías para enriquecer mis habilidades y mejorar mis buenas prácticas como desarrollador.",
-    "years": "Edad: ",
-    "from": "Desde: ",
+    "my-description": "Llevo casi 7 años trabajando en la industría Tech.  Mi pasión por la programación comenzó en 2018, allí comencé mis estudios de manera autodidacta y a finales de 2022 finalicé un grado superior en desarrollo y aplicaciones web en Madrid. Llevo 2 años trabajando como programadora con react/redux en una empresa brasileña llamada Zenvia, donde tengo la oportunidad de llevar a cabo grandes retos en el entorno frontEnd y trabajando también con pequeñas tareas de backend. Mi objetivo es seguir creciendo como profesional y formar parte de equipos colaborativos que ofrezcan resultados excepcionales. Creo en la importancia de cultivar un entorno de trabajo positivo y de apoyo, donde el éxito individual se combine con el éxito del equipo.",
     "btn-know-more": "Saber más",
     "tools": "Herramientas",
 
 
     "design": "Diseño UX/UI",
-    "design-info": "Diseño de interfaz atractivas para usuarios tanto en web como en móvil, aprovechando al máximo la marca o el producto que el cliente dese explotar en su sitio web",
+    "design-info": "Diseño de interfaces atractivas para usuarios web y móviles, aprovechando la identidad de la marca para potenciar la presencia online del cliente. Trabajamos continuamente con el equipo de producto para entregar el mejor resultado.",
     "development": "Desarrollo WEB",
-    "development-info": "Creación de páginas web, bien estructuradas, buen diseño responsivo, paleta de colores atractivas, con interacciones que le den al usuario satisfacción cuando navegue por el sitio web.",
-    "marketing": "Marketing digitals",
-    "marketing-info": "Preparar una estrategia y objetivos para la promoción de la marca que nos proporcione el cliente, utilizando internet u otras plataformas para promover productos y servicios de la marca en cuestión.",
+    "development-info": "Me especializo en la creación de páginas web bien estructuradas, con un fuerte enfoque en el diseño responsivo y elementos interactivos, utilizando las mejores prácticas para mejorar la satisfacción del usuario durante la navegación por el sitio web.",
+    "marketing": "Fomentar una cultura de trabajo positiva",
+    "marketing-info": "Soy una persona comprometida en fomentar un ambiente de trabajo positivo y colaborativo para optimizar el rendimiento del equipo y lograr resultados exitosos en conjunto.",
     "maintenance": "Mantenimiento web",
-    "maintenance-info": "Mantenimiento completo de páginas web para detectar y solucionar errores, actualización de contenido ya sean textos, fotos, elementos de diseño web, añadir nuevas funciones, etc.",
-    "seo": "Posicionamiento web (SEO)",
-    "seo-info": "Posicionamiento web mediante SEO, así tu pagina web aparezca en los principales resultados de búsqueda acorde a tu negocio, tanto en Google, Bing, u otros buscadores de internet",
+    "maintenance-info": "Gestión integral de páginas web, que incluye la detección y resolución de errores, actualización de contenido (texto, fotos y elementos de diseño), así como la integración de nuevas funciones para garantizar un rendimiento óptimo y una experiencia satisfactoria para el usuario",
+    "seo": "SEO",
+    "seo-info": "Optimización de la visibilidad de tu sitio web en los principales motores de búsqueda como Google, Bing y otros, asegurando un destacado posicionamiento en los resultados de búsqueda pertinentes para tu negocio",
     "optimization": "Optimización web",
-    "optimization-info": "Optimización completa de tu pagina web, mejorando la velocidad de carga, usando imágenes optimizadas,, un buen URL, para dar una mejor experiencia a los usuarios que visiten el sitio web ",
+    "optimization-info": "Mejora integral de tu página web, centrada en optimizar la velocidad de carga, utilizar imágenes optimizadas y emplear una estructura de URL amigable para ofrecer una experiencia mejorada a los usuarios que visitan el sitio web",
 
     
 
@@ -47,9 +45,9 @@
     "footer-info": "Pagina creada por Sofia Etchepare",
 
     
-    "about-info-1": "Hola soy Sofia Etchepare, estudiante de la Universidad Tecnológica de Tucumán; Me considero una persona apasionada por la programación y el desarrollo web dado que en 2020 tuve la oportunidad conocer este mundo del front-end y pude crear mi primera página web solo usando HTML y CSS desde allí, sentí una gran pasión por el desarrollo web, ya que puedes hacer cosas impresionantes sabiendo cómo usar HTML, CSS, JavaScript y hasta el día de hoy sigo sintiendo esa misma pasión cuando creo una página web.",
-    "about-info-2": "Me considero una persona autodidacta dado que me gusta estar en constante aprendizaje día a día, tanto como de nuevas tecnologías, como de nuevos métodos de desarrollo que me ayuden a pulir y elevar mi nivel de aprendizaje.",
-    "about-info-3": "Tengo experiencia trabajando como diseñador y desarrollador web freelance, lo cual me dio la oportunidad de trabajar en bastantes proyectos interesantes, adaptándome a las necesidades y presupuesto del cliente lo que me permitió mejorar mis habilidades y conocimientos; adicionalmente también he tenido la oportunidad de formar parte de algunos cursos en línea y de manera presencial que me ayudaron a enriquecer mis capacidades y poder conocer un poco más de este hermoso mundo del desarrollo web.",
+    "about-info-1": "Hola, soy Sofia Etchepare, soy desarrolladora fullstack y trabajo como Frontend; llevo casi 7 años trabajando en la industría Tech. Mi pasión por la programación comenzó en 2018, donde inicié mis estudios de forma autodidacta, y para el 2020 comencé un grado superior de 3 años en IFP Madrid. Allí obtuve mi título como programadora fullstack.",
+    "about-info-2": "En mitad de mis prácticas, fui contratada como programadora en la empresa donde trabajo actualmente. Llevo 2 años trabajando, y me desempeño con Javascript, React, Redux, Node y Typescript en el desarrollo de un CRM que integra plataformas como WhatsApp, Instagram, Facebook y otros servicios.",
+    "about-info-3": "Mi objetivo es seguir creciendo como profesional y ser parte de equipos colaborativos que entreguen resultados excepcionales. Creo en la importancia de cultivar un entorno de trabajo positivo y solidario, donde el éxito individual se combine con el éxito del equipo.",
     "btn-cv": "Descargar CV",
     "about-skills-1": "Más de un año de experiencia profesional en este lenguaje, me permiten desempeñarme sin problemas en la industria.",
     "about-skills-2": "Más de un año de experiencia laboral en este lenguaje, lo utilizo diariamente para desarrollar diseños web e interfases.",
@@ -59,9 +57,10 @@
     "about-skills-6": "Un año usando esta librería en el ámbito personal y laboral, es de las librería que más empleo y manipulo.",
     "about-skills-7": "Más de un año utilizando este framework JavaScript, realizando múltiples proyectos personales y laborales.",
     "about-skills-8": "Es el entorno de tiempo de ejecución multiplataforma que utilizo para hacer que mis aplicaciones web sean escalables.",
-    "about-skills-9": "Es un framework que utilizo mayormente para poder administrar de la mejor manera mis APIs y mi modelo de ejecución http.",
+    "about-skills-9": "Utilizo Redux para proporcionar una solución robusta y escalable para gestionar el estado de aplicaciones JavaScript.",
 
-    
+    "projects-involved":"Proyectos en los que trabajé",
+
     "services-price": "Precios",
     "services-info-title-1": "Básico",
     "services-info-title-2": "Profesional",

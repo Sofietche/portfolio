@@ -17,25 +17,23 @@
 
     "im": "who I am",
     "description": "My name is Sofia Etchepare, and I'm a Frontend developer.",
-    "my-description": "I have been working on web designing and web development for 3 years. Constantly updating the technologies I already master, but also looking to learn new technologies to enrich my skills and improve my good practices as a developer.",
-    "years": "Age: ",
-    "from": "From: ",
+    "my-description": "I've been working in the tech industry for almost 7 years.  My passion for programming started in 2018, there I started my self-taught studies and by the end of 2022 I had finished a higher degree in web and application development in Madrid. I've been working as a programmer for 2 years with react/redux in a brazilian company called Zenvia, where I have the opportunity to carry out great challenges in the frontEnd environment and working with small backend tasks as well. My goal is to keep growing as a professional and be part of collaborative teams that deliver exceptional results. I believe in the importance of cultivating a positive and supportive work environment, where individual success is combined with team success.",
     "btn-know-more": "Read more",
     "tools": "Tools",
 
 
     "design": "Design UX/UI",
-    "design-info": "Design of attractive interfaces for both web and mobile users, making the most of the brand or product that the client wishes to exploit on their website",
+    "design-info": "Crafting compelling interfaces for web and mobile users, leveraging brand identity to enhance the client's online presence. We work continuously with the product team to deliver the best result.",
     "development": "Web development",
-    "development-info": "Creation of well-structured web pages, good responsive design, attractive color palette, with interactions that give the user satisfaction when browsing the website.",
-    "marketing": "Digital marketing",
-    "marketing-info": "Prepare a strategy and objectives for the promotion of the brand provided by the client, using the internet or other platforms to promote products and services of the brand in question.",
+    "development-info": "I specialize in creating well-structured web pages with a strong emphasis on responsive design and interactive elements, utilizing best practices to enhance user satisfaction during website navigation.",
+    "marketing": "Promote a positive Workplace Culture",
+    "marketing-info": "Dedicated to fostering a positive and collaborative work environment to optimize team performance and deliver successful outcomes together",
     "maintenance": "Web maintenance",
-    "maintenance-info": "Complete maintenance of web pages to detect and solve errors, update content whether text, photos, web design elements, add new functions, etc.",
-    "seo": "Web positioning (SEO)",
-    "seo-info": "Web positioning through SEO, so your website appears in the main search results according to your business, both in Google, Bing, or other internet search engines",
+    "maintenance-info": "Comprehensive management of web pages, including error detection and resolution, content updates (text, photos, and design elements), and the integration of new features to ensure optimal performance and user experience.",
+    "seo": "SEO",
+    "seo-info": "Optimizing your website's visibility on leading search engines such as Google, Bing, and others, ensuring it ranks prominently in search results relevant to your business.",
     "optimization": "Website optimization",
-    "optimization-info": "Complete optimization of your web page, improving loading speed, using optimized images, a good URL, to give a better experience to users who visit the website",
+    "optimization-info": "Comprehensive enhancement of your web page, focusing on improving loading speed, utilizing optimized images, and employing a user-friendly URL structure to provide an enhanced experience for website visitors",
 
 
     "btn-more-projects": "More projects",
@@ -47,9 +45,9 @@
     "footer-info": "Page created by Sofia Etchepare",
 
 
-    "about-info-1": "Hi, I'm Sofia Etchepare, a student at the Technological University of Tucumán; I consider myself a person passionate about programming and web development since in 2020 I had the opportunity to get to know this world of the front-end and I was able to create my first web page only using HTML and CSS from there, I felt a great passion for web development, since you can do amazing things knowing how to use HTML, CSS, JavaScript and to this day I still feel that same passion when I create a web page.",
-    "about-info-2": "I consider myself a self-taught person since I like to be constantly learning day by day, both new technologies and new development methods that help me polish and raise my level of learning.",
-    "about-info-3": "I have experience working as a freelance web designer and developer, which gave me the opportunity to work on many interesting projects, adapting to the client's needs and budget, which allowed me to improve my skills and knowledge; Additionally, I have also had the opportunity to be part of some online and face-to-face courses that helped me enrich my skills and learn a little more about this beautiful world of web development.",
+    "about-info-1": "Hi, I'm Sofia Etchepare, I'm fullstack developer working as a Frontend; I have been working in the technology sector for almost 7 years. My passion for programming began in 2018, there I started my studies in a self-taught way and by 2020 I started a 3-year higher degree in IFP madrid. There I got my degree as a fullstack programmer.",
+    "about-info-2": "In the middle of my internship I was hired as a programmer in the company where I currently work. Where I have been working for 2 years, I work with javascript, React, redux, node and typescript in the development of a CRM that integrates platforms such as Whatsapp, instagram, facebook, and other services.",
+    "about-info-3": "My goal is to keep growing as a professional and be part of collaborative teams that deliver exceptional results. I believe in the importance of cultivating a positive and supportive work environment, where individual success is combined with team success",
     "btn-cv": "Download CV",
     "about-skills-1": "More than a year of professional experience in this language, allows me to perform without problems in the industry.",
     "about-skills-2": "More than a year of work experience in this language, I use it daily to develop web designs and interfaces.",
@@ -59,9 +57,10 @@
     "about-skills-6": "A year using this bookstore in the personal and work environment, it is one of the bookstores that I use and manipulate the most.",
     "about-skills-7": "More than a year using this JavaScript framework, carrying out multiple personal and work projects.",
     "about-skills-8": "It is the cross-platform runtime environment that I use to make my web applications scalable.",
-    "about-skills-9": "It is a framework that I use mostly to be able to manage my APIs in the best way and my http execution model.",
+    "about-skills-9": "Use Redux to provides a robust and scalable solution for managing the state of JavaScript applications.",
 
-
+    "projects-involved":"Projects I was involved in",
+    
     "services-price": "Price",
     "services-info-title-1": "Essential",
     "services-info-title-2": "Professional",
